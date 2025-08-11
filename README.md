@@ -46,11 +46,8 @@ Este projeto é um CRUD simples para gerenciar produtos usando Laravel 12, com i
 
 ## Observações
 - Por padrão, utiliza SQLite. Para MySQL, edite o arquivo `.env`.
-- Para dúvidas, envie um e-mail para fabiane@memphisnetwork.com.br
-
 ---
 
-**Boa sorte e sucesso!**
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
